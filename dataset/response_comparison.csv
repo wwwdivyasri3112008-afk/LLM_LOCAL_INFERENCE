@@ -1,0 +1,11 @@
+prompt_id,domain,model,response_length_chars,response_word_count,complexity_level,accuracy_score_est
+1,Education,llama3.2,2811,434,Standard,High
+2,Healthcare,llama3.2,2399,371,Standard,High
+3,Coding,llama3.2,649,87,Standard,High
+4,Travel,llama3.2,2798,474,Standard,High
+5,Business,llama3.2,2420,320,Standard,High
+6,Technology,llama3.2,2220,308,Standard,High
+7,Environment,llama3.2,1476,220,Standard,High
+8,Finance,llama3.2,2178,337,Standard,High
+9,Communication,llama3.2,2310,338,Standard,High
+10,General Knowledge,llama3.2,1707,306,Standard,High
